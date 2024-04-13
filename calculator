@@ -1,0 +1,79 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyNvJxaXY5Go8iY2N5yU8LnG",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/jaunpurSHIVANGI/linux-codes-/blob/main/calculator\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "HrbHY4BQ2Isz"
+      },
+      "outputs": [],
+      "source": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "num1=int(input(\"enter the value:1-:\"))\n",
+        "num2=int(input(\"enter the value:2-:\"))\n",
+        "opr=input(\"enter the opr..\")\n",
+        "if opr==\"+\":\n",
+        "  print(num1+num2)\n",
+        "elif opr==\"-\":\n",
+        "  print(num1-num2)\n",
+        "elif opr==\"*\":\n",
+        "  print(num1*num2)\n",
+        "elif opr==\"/\":\n",
+        "  print(num1/num2)\n",
+        "else:\n",
+        "  print(\"invalid opr..\")\n",
+        "\n",
+        "\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "fbnYbJz-2Zrb",
+        "outputId": "76307a11-c65e-402b-f3aa-dab03711acb1"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "enter the value:1-:3\n",
+            "enter the value:2-:4\n",
+            "enter the opr../\n",
+            "0.75\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
